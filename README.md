@@ -30,8 +30,7 @@ Aplicación fullstack construida con NestJS (backend) y Next.js (frontend) para 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/IgnacioGaute/INLAZE-TASK-MANAGER.git)
 
 # 2. Instalar dependencias en backend y frontend
 cd backend && pnpm install
